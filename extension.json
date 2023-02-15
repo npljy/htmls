@@ -1,90 +1,43 @@
 {
-  "srcs": [
-    {
-      "name": "番茄",
-      "url": "https://fqzy.cc"
-    },
-    {
-      "name": "星海1",
-      "url": "https://xhzy03.com"
-    },
-    {
-      "name": "星海2",
-      "url": "https://xhzy05.com"
-    },
-    {
-      "name": "星海2",
-      "url": "https://xhzy07.com"
-    },
-    {
-      "name": "星海4",
-      "url": "https://xhzy09.com"
-    },
-    {
-      "name": "光速1",
-      "url": "https://guangsuzy.com"
-    },
-    {
-      "name": "光速2",
-      "url": "https://guangsuziyuan.com"
-    },
-    {
-      "name": "飞速1",
-      "url": "https://feisuzy.cc"
-    },
-    {
-      "name": "飞速2",
-      "url": "https://feisuzy.com"
-    },
-    {
-      "name": "红牛1",
-      "url": "https://hongniuzy.com"
-    },
-    {
-      "name": "红牛2",
-      "url": "https://hongniuziyuan.com"
-    },
-    {
-      "name": "酷点1",
-      "url": "https://kudianzy.com"
-    },
-  
-    {
-      "name": "酷点2",
-      "url": "https://kudianziyuan.com"
-    },
-    {
-      "name": "酷点3",
-      "url": "https://kudian10.com"
-    },
-    {
-      "name": "酷点4",
-      "url": "https://kudian30.com"
-    },
-    {
-      "name": "酷点5",
-      "url": "https://kudian50.com"
-    },
-    {
-      "name": "FOX 1",
-      "url": "https://foxzyw.com"
-    },
-    {
-      "name": "FOX1",
-      "url": "https://foxzyw.com"
-    },
-    {
-      "name": "FOX2",
-      "url": "https://foxzy.net"
-    },
-    {
-      "name": "FOX3",
-      "url": "https://foxzy.cc"
-    },
-    {
-      "name": "FOX4",
-      "url": "https://foxzy1.com"
-    }
-    
-  ]
+  "srcs": {
+    "188": "https://188zy.org/",
+    "非凡1": "http://ffzy.tv/",
+    "非凡2": "http://ffzy1.tv/",
+    "非凡3": "http://svip.ffzyapi8.com/",
+    "光速1": "https://guangsuzy.com",
+    "光速2": "https://guangsuziyuan.com",
+    "飞速1": "https://feisuzy.cc",
+    "飞速2": "https://feisuzy.com",
+    "红牛1": "https://hongniuzy.com/",
+    "红牛2": "https://hongniuziyuan.com/",
+    "酷点1": "https://kudianzy.com",
+    "酷点2": "https://kudianziyuan.com",
+    "酷点3": "https://kudian10.com",
+    "酷点4": "https://kudian30.com",
+    "酷点5": "https://kudian50.com",
+    "FOX1": "https://foxzyw.com",
+    "FOX2": "https://foxzy.net",
+    "FOX3": "https://foxzy.cc",
+    "FOX4": "https://foxzy1.com",
+    "优1": "https://www.1080zyk.com",
+    "优2": "https://www.1080zyk2.com",
+    "优3": "https://www.1080zyk3.com",
+    "优4": "https://www.1080zyk4.com",
+    "优5": "https://www.1080zyk5.com"
+  },
+  "jxapis": {
+    "看看": "http://blog.laonongmin.online/v.html?source=extension&system=ios&from=fanqie&vid=",
+    "8090g": "https://www.8090g.cn/?url=",
+    "8090g2": "https://www.8090g.cn/jiexi/?url=",
+    "ckmov": "https://www.ckmov.vip/api.php?url=",
+    "parwix": "https://jx.bozrc.com:4433/player/?url=",
+    "虾米": "https://jx.xmflv.com/?url=",
+    "ivito": "http://jx.ivito.cn/?url=",
+    "wandhi": "http://vip.wandhi.com/?v=",
+    "admin": "https://www.administratorw.com/admin.php?url=",
+    "admin2": "https://www.administratorw.com/video.php?url=",
+    "mao": "https://www.mtosz.com/m3u8.php?url=",
+    "m3u8": "https://jx.m3u8.tv/jiexi/?url=",
+    "okjx": "https://okjx.cc/?url="
+  }
 }
